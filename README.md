@@ -17,7 +17,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 9 February
 
-- BTC Financial Analytics, Equation(s)
+- BTC financial analytics, software-specific (TradingUI) equation(s)
 
     - f(XBTCUSD)=
 
