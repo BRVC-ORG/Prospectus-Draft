@@ -23,7 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - f($BTC)=
 
-- Xero, Stripe business accounts created
+- Xero, Stripe, Link business accounts created
 
     - https://profiles.xero.com/people/brockthib
 
