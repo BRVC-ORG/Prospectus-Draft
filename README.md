@@ -15,7 +15,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of February 2026
 
-18
+February 18
 
 - In order to do this kind of work, one has to be willing to go up against even the very idea of what some may think of as, quote, classical CCTV
 
