@@ -15,7 +15,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of February 2026
 
-February 18
+18 February
+
+- Research note: Stuxnet deserves more attention, at least in terms of what exact kind(s) of hardware it was supposed/meant to target
+
+    - Just a thought; not implying anything but research-minded-analysis here
+
+    - "The Perfect Weapon" (2013) goes into this somewhat
 
 - §9 of Proof-of-Identity Document at poi.brvc-org.com
 
