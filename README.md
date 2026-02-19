@@ -35,7 +35,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
             - Interesting how antitrust/antimonopoly laws did not apply to in-game server-browsing software/gui/programming, at least it seems, in 2004...or since Steam led the way with its stand-alone platform
 
-                - Maybe this is why The Author waited two-ish years and did plentiful research before contacting the late journalist, professor and author David Foster Wallace
+                - Maybe this is why The Author waited two-ish years after reading "Everything and More" (2003) and did plentt of research before contacting the late journalist, professor and author David Foster Wallace
 
                     - Interestingly-enough, around the same time as a lot of "Far Cry" activity (2005), depending on how one looks at it
 
