@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 February 18
 
+- §9 of Proof-of-Identity Document at poi.brvc-org.com
+
+    - In terms of traditional-thinking of quote store of value, and in terms of liquidating the past, one must simply look at one example amongst many: two (2) circa2004 abstract paintings, created four (4) days apart, with a visual correlation [happenstance?; intentional?] via a 14-second video featuring the text YOU FRAGGED XXXXXBALLS 4th PLACE WITH 4
+
+        - Classic obfuscation: Byzantine/Copper Age + Olympiad-thinking = misdirection; something like "The Prestige" (2005), except we're the good guys and the caring wife returns in "Frost/Nixon" (2007)
+
 - In order to do this kind of work, one has to be willing to go up against even the very idea of what some may think of as, quote, classical CCTV
 
     - This will come to mean something and that quite soon
