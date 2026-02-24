@@ -15,6 +15,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of February 2026
 
+23 February
+
+- ai.com handles reserved
+
+    - 8 February
+
+        - CreatorBitcoin, CreatorBitcoin
+
 18 February
 
 - Research note: Stuxnet deserves more attention, at least in terms of what exact kind(s) of hardware it was supposed/meant to target
