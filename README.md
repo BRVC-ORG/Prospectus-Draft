@@ -13,7 +13,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc:
 
-# Month of February 2026
+# Month of February 202
+
+26 February
+
+- ADD
+
+    - A calculator app, hosted on the blockchain
 
 24 February
 
