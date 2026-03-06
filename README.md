@@ -13,7 +13,15 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc:
 
-# Month of February 202
+# Month of March 2026
+
+5 March
+
+- Generative AI service which lets users create dApps with only a few descriptive inputs
+
+    - The ability to create which Chain, or multiple Chains
+
+# Month of February 2026
 
 26 February
 
