@@ -17,6 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 9 March
 
+- Possible names (see below):
+
+    - Angels Verdun (Emily Blunt "Edge of Tomorrow" reference)
+    - Luv5 (à la "2049")
+
 - DOROTHY GenAI web1-, web2-to-web5 conversion add-on
 
     - Include a way to convert, via web1-, web2-to-web5 oracles and GenAl, a web1 or web2 native app onto one or multiple Chains
