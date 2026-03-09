@@ -24,6 +24,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - Kind of like converting a DVD into an mp4 or something but super-easy-like
     - And with native code and App Store(s) compatibility
     - Like a way to convert almost ANY app into a web3- or web5-compatible dApp, almost instantly, with a few descriptive inputs
+    - Only hard part would be to find a way to read and then convert all the web1 and web2 programming codes and whatnot
+    - Don't see this anywhere else tbh
 
 5 March
 
