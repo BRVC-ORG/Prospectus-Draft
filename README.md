@@ -4,7 +4,7 @@ This Prospectus is an exhaustive, running document that functions as both a tact
 
 Date began: 20 June 2024
 
-Completion date: 25 January 2026
+Completion date: March 2026
 
 Source Document for PDF (see "BRVC Prospectus" file above) (prospectus.brvc-org.com):
 
@@ -13,7 +13,17 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc:
 
-# Month of March 2026
+# Month of March 202
+
+9 March
+
+- DOROTHY GenAI web1-, web2-to-web5 conversion add-on
+
+    - Include a way to convert, via web1-, web2-to-web5 oracles and GenAl, a web1 or web2 native app onto one or multiple Chains
+    - As an inclusion for DOROTHY
+    - Kind of like converting a DVD into an mp4 or something but super-easy-like
+    - And with native code and App Store(s) compatibility
+    - Like a way to convert almost ANY app into a web3- or web5-compatible dApp, almost instantly, with a few descriptive inputs
 
 5 March
 
