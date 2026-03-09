@@ -28,6 +28,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - Don't see this anywhere else tbh
     - Best thing is possible life-time revenues/royalties by including NFT-like original creator revenue structure into it once we license-out the service, For all parties included in the making of said tool
     - Once blockchain operating systems become more popular I can kind of foresee a Linux/Unix-type "sudo apt get" tool from a selection of decentralized web5 IPFS repositories
+    - Only thing we have to worry about for now is coming up a catchy/cool-sounding name for the GenAI app making service and the convertion tool
 
 5 March
 
