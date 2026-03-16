@@ -15,6 +15,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of March 2026
 
+15 March
+
+- How can no one else see that during 1998 to 2005 most Americans were quoteunquote guilty of piracy?
+
+    - Will this contribute to the eventual full-on Natural Resource conflict which is still brewing in the Arctic?
+
+    - Research is hard
+
 9 March
 
 - Possible names (see below):
