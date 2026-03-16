@@ -23,9 +23,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - Perhaps could be used for TradingUI?
 
-- How can no one else see that during 1998 to 2005 most Americans were quoteunquote guilty of piracy?
+- R&D thought: How can no one else see that during 1998 to 2005 most Americans were quoteunquote guilty of piracy?
 
-    - Will this contribute to the eventual full-on Natural Resource conflict which is still brewing in the Arctic?
+    - Will this contribute to the eventual full-on Natural Resource conflict which is still brewing in the Arctic
+
+        - Due to Botnetweb activities (2005 - Onward) + Operation Olympic Games (2010 - Current) + fact that highly-conducive metal(s) such as gold are given-out yearly, extraJudicially, to American artists (i.e., Grammys, Pulitzer Prizes, National Book Award, et cetera)
+
+        - First recorded video featured a horse; 1992's National Book Award went to a novel entitled All the Pretty Horses — put that in your AGI pipe and smoke it [e.g., which GPU manufacturer will be selected as the renderer? Will it be un-biased?] 
 
     - Research is hard
 
