@@ -15,6 +15,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of March 2026
 
+26 March
+
+- BRVC YouTube channel creation
+
 15 March
 
 - Have been working on mirrored-version of 𝕏 symbol, as a way of thinking-through how to better PoW in terms of (if any at all) Quantum updates
