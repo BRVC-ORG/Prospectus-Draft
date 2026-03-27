@@ -23,7 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - Have been working on mirrored-version of 𝕏 symbol, as a way of thinking-through how to better PoW in terms of (if any at all) Quantum updates
 
-    - Kind of like once Insurance companies start their audits; in shorthand terms, once on would see this quoteunquote mirrored or quoteunquote flipped 𝕏 symbol, s/he would immediately know what it means
+    - Kind of like once Insurance companies start their audits; in shorthand terms, once one would see this quoteunquote mirrored or quoteunquote flipped 𝕏 symbol, s/he would immediately know what it means
 
     - Perhaps could be used for TradingUI?
 
