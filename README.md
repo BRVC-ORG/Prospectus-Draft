@@ -13,6 +13,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc:
 
+# Month of April 2026
+
+- 1 April
+
+- A generalized Bitcoin Owners Manual, as quoteunquote pop fiction for mass audience (?)
+
 # Month of March 2026
 
 26 March
