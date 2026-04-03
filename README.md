@@ -15,7 +15,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of April 2026
 
-- 1 April
+2 April
+
+- LanDesk-type homepage interface for local, hybrid/proprietary (Hyperledger) or custom blockchain-based Help Desk suite
+
+1 April
 
     - A generalized Bitcoin Owners Manual, as quoteunquote pop fiction for mass audience (?)
 
