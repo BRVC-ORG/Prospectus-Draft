@@ -17,6 +17,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 3 April
 
+- Fabric Freshener spray in wine bottle
+
 - Bitcoin-branded, quality 100% cotton Made In USA t-shirts, button-down longsleeves
 
     - Small increments of BTC available via QR code on fabric/shirt
