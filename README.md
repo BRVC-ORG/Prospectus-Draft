@@ -15,6 +15,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of April 2026
 
+6 April
+
+- Obfuscation essay began
+
+- Product: plastic, simple snap-on/cover for iPhone X and later models, for top of device, in order to cover front- and back-cameras
+
+    - Geared toward privacy-focused and InfoSec users
+
+   - Easily 3D-printed or manufactured-in-scale from very little amount(s) of safe, robust plastic(s) and or carbonfiber/cubenfiber material(s)
+
 3 April
 
 - Fabric Freshener spray in wine bottle
