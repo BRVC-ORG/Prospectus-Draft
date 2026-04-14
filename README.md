@@ -15,6 +15,15 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of April 2026
 
+14 April
+
+- From 15 February notes
+
+    - Clone Issue - Bitcoin 2
+
+        - CLONE - web3, web5 [ppt::: (Sn/a/---• I[BEGIN ... <x] END(qrt.block\que/||REmovEPAetal.bat * ss
+47.xxxxxxxxxxxxxxxxinfinity-sign
+
 13 April
 
 - https://gemini.google.com/share/787aee10eb2d
