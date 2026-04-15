@@ -15,6 +15,18 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of April 2026
 
+15 April
+
+- The Author (Brock Angelle Thibodeaux a/k/a Satoshi Nakamoto) filed taxes informing the IRS of his Creator/Founder status, as early as 2024, IIRC
+
+    - Have not been audited yet, though I would not unwelcome the matter and or info if so presented with; just being honest
+
+    - The Author admittedly used a wellknown Federal/DoD technology alongside the Bitcoin timechain and all of its required language(s)/dealing(s)
+
+    - IYI (2)
+
+        - A friendly reminder that the National Security Agency created AES-256 and SHA-256, and has supported in its maintainence and upkeep, beginning shortly thereafter and around the same time as 11/Sep/2001 (i.e., The Bad Thing)]or as one particular ft film would put it: quoteunquote ...these things... (2005, "Into the Wild")  A mere four (4) years after "The Black Knight"'s Nolte defaced and destroyed United States Treasury Notes  ,  in absentia
+
 14 April
 
 - One thing, on my mind, constantly, as of late: You cannot take the sun.
