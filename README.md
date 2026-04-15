@@ -17,6 +17,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 14 April
 
+- One thing, on my mind, constantly, as of late: You cannot take the sun.
+
+    - Good luck with classic/classical Libel Laws, though.  Respectfully.
+
+    - IYI  One could construct a neverending staircase around the literal Statue of David and still web1 and web2 would not be e/affected
+
+    - Mercantilism ≠ syntaxially-esque item(s) in web5 {whichever and whatever language will be there…if any}
+
 - From 15 February notes
 
     - Clone Issue - Bitcoin 2
