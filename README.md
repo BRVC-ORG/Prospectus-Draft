@@ -4,7 +4,9 @@ This Prospectus is an exhaustive, running document that functions as both a tact
 
 Date began: 20 June 2024
 
-Completion date: March 2026
+Completion date: March 2026 (for Investor(s)/Pitch Deck purpose(s))
+
+Continuation date: March 2026 - Current
 
 Source Document for PDF (see "BRVC Prospectus" file above) (prospectus.brvc-org.com):
 
@@ -14,6 +16,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Prospectus continued from aforementioned Google Doc:
 
 # Month of April 2026
+
+19 April
+
+- 2002 Afghani, new currency
+
+    - https://edition.cnn.com/2002/WORLD/asiapcf/central/10/06/afghan.currency/
 
 15 April
 
