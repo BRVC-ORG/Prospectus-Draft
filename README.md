@@ -25,7 +25,17 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 15 April
 
-- The Author (Brock Angelle Thibodeaux a/k/a Satoshi Nakamoto) filed taxes informing the IRS of his Creator/Founder status, as early as 2024, IIRC
+- The Author (Brock Angelle Thibodeaux a/k/a Satoshi Nakamoto) filed taxes informing the IRS of his Creator/Founder status, as early as 2024
+
+    - It was uncertain whether to use the title 'Creator' of 'Founder,' as Creator invokes thoughts of Public School curricula and vague religious-institutional-speak; but, being that a signed letter informing them of my ownership of the Genesis wallet, with address and SSN included, was included with the filing, I opted for 'Founder, Bitcoin,' being that in 2011 and 2014 I was still attending university and utilizing Post-9/11 GI Bill benefits for not only tuition but rent and textbooks as well
+
+    - The fact that I applied for and was hired to work at the Edith Garland Dupre Library's STEP Lab's printers (Xerox) and computer lab (all Dell, almost all desktop), was probably another blatantly-obvious piece of supplementary info which would maybe possibly help explain why the concentration 'No concentration' was chosen by The Author in 2011 and kept till graduation; Minor: Business
+
+        - Clarifying note on the text: the Creative Writing thesis mentioned in the Proof of Identity doc was meant as more of a side-work, independent-thereof of any English undergrad work/studies...if that makes any sense
+
+            - Nice happenstance: an example of an 'accidental obfuscation,' or what one 𝕏 user mentioned as his or her reason for not wanting to continue his or her objective analysis of early incarnations of the now-offered-as-standard PoI doc (poi.brvc-org.com), "notes.pdf"
+
+            - Also 25B (IT) candidates are historically supposed to attend AIT in Arizona, at least during GWOT, but that is neither here nore there
 
     - Have not been audited yet, though I would not unwelcome the matter and or info if so presented with; just being honest
 
