@@ -35,7 +35,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
             - Nice happenstance: an example of an 'accidental obfuscation,' or what one 𝕏 user mentioned as his or her reason for not wanting to continue his or her objective analysis of early incarnations of the now-offered-as-standard PoI doc (poi.brvc-org.com), "notes.pdf"
 
-            - Also 25B (IT) candidates are historically supposed to attend AIT in Arizona, at least during GWOT, but that is neither here nore there
+            - Also 25B (IT) candidates are historically supposed to attend AIT in Arizona, at least during GWOT, but that is neither here nor there [respectfully of course]
 
     - Have not been audited yet, though I would not unwelcome the matter and or info if so presented with; just being honest
 
