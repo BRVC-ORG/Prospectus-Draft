@@ -25,6 +25,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
         - https://finance.yahoo.com/news/satoshi-era-bitcoin-wallets-move-222635048.html
 
+    - Random thought: does Genesis block's 50 BTC count toward the whole?
+
+       - Unspendable and whatnot
+
 - https://gemini.google.com/share/1f2e66f5e85a
 
 19 April
