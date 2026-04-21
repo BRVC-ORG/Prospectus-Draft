@@ -19,6 +19,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 20 April
 
+- Satoshi holdings as of 19:16 PST: $83,462,500,000
+
+    - san
+
+        - https://finance.yahoo.com/news/satoshi-era-bitcoin-wallets-move-222635048.html
+
 - https://gemini.google.com/share/1f2e66f5e85a
 
 19 April
