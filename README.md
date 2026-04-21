@@ -19,7 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 20 April
 
-- Satoshi holdings as of 19:16 PST: $83,462,500,000
+- Satoshi holdings as of 19:16 PST: $83,462,500,000 +/-
 
     - sans
 
