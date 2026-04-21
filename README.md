@@ -21,9 +21,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - Nakajima WPT-150 Electronic Typewriter (notes.brvc-org.com)
 
-   - Ordered 4-12-2021, delivered 4-19-2021 (Amazon Order #112-8413460-5872255)
+   - Ordered 4-12-2021, delivered 4-19-2021 ($286.23, Amazon Order #112-8413460-5872255)
 
    - Sold 1-11-2024 ($75, via OfferUp)
+
+   - Highly recommend as a daily note-taker
+
+   - https://a.co/d/0edFz1O9
 
 - Satoshi holdings as of 19:16 PST: $83,462,500,000 +/-
 
