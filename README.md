@@ -19,6 +19,15 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 20 April
 
+- From 2 June 2025 Notes
+
+   - Senate Bill 232
+
+       1. Authority was transferred from statutory law, where decisions must go through the state legislature, to the Louisiana Economic Development Department. This allows for more administrative flexibility and less legislative involvement.
+       2. The Senate maintained the current cap on the Louisiana Tax Credit Program, currently set at $125 million. 
+       The Louisiana Motion Picture Tax Credit Program helps attract movies and TV shows to the state by offering financial incentives. Productions can get up to 40% back on money spent in Louisiana, including costs for local workers. There’s also an extra 5% credit for visual effects work done in the state. To qualify, productions need to spend at least $300,000 in Louisiana. The program has a yearly limit of $125 million in total credits given out.            This program boosts the local economy by bringing in film projects and creating jobs.  
+
+
 - Nakajima WPT-150 Electronic Typewriter (notes.brvc-org.com)
 
    - Ordered 4-12-2021, delivered 4-19-2021 ($286.23, Amazon Order #112-8413460-5872255)
