@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of April 2026
 
+29 April
+
+- Indexing web3, web5
+
+- Include BRVC YouTube playlist with emails to Angel Investors
+
 20 April
 
 - From 2 June 2025 Notes
