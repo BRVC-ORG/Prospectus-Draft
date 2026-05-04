@@ -19,6 +19,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 May
 
+- Bitcoin Terminal / Blockchain Terminal (Product)
+
+    - Both software and hardware offering(s), including option(s) for separate individual products or a combination of both
+ 
+    - Kind of like Bloomberg Terminal but more pared-down and classically-Terminal-like; would utilize Microsoft Terminal and Web Shell a lot, on first thought(s)
+ 
+    - Classic 'green screen'/'grey screen' look (?)
+
 - Network Solutions
 
     - Order #1886372189
