@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 May
 
+- Essay "How To Obfuscate Before, While and After Creating A Cryptocurrency: A Narrative Essay on OPSEC, Cyber Hygiene, Identity Architecture and the Autonomous Nature of Decentralized Currency" outline and first draft begun in earnest
+
+
 - Bitcoin Terminal / Blockchain Terminal (Product)
 
     - Both software and hardware offering(s), including option(s) for separate individual products or a combination of both
