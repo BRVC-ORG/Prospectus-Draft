@@ -15,6 +15,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc:
 
+# Month of May 2026
+
+4 May
+
+- Thought: Comparably, classical unstitutional investors like VCs are even still unsure as to BTC as a sound investment. Part of why our (BRVC's) slow roll-out is working so well. As even Claude and every other AI agent recognizes, we've been building in public for close to a year now, we have a sizeable, respectable, verifiable and indisputable Satoshi archive (something no one else has) and we have 60+ repositories and products ready to go
+
 # Month of April 2026
 
 29 April
