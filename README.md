@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 5 May
 
+ "Contact" (1997)
+    S.R. HADDEN: First rule of government-spending: Why buy one when you can buy two for twice the price?
+
 - Have begun manually doing what AutoML does with and for propretiary-data-types and am moving the appropriate notes, drafts, et al from Notes, Docs, OneDrive, Gmail (mainly from two (2) original, 2004-began accounts), plus other stuff
 
 - Miscellaneous notes for Essay, R&D, other stuff; included here b/c better for organizing; typed from longhand and from various and scattered app-specific sources, just for clerical purposes and for general transparency and the fact that it took, say, 3ish years to draft the Bitcoin white paper: Thought I have had most frequently in the past week, weekandahalf: people instinctively know this I guess but it's worth noting: that it takes talent to be able to do this kind of stuff, mostly the kind of talent and dedication-of-thought(s) that/which still are decidedly rare, but you can bave all of that and then some and but still if not for persistancd, the kind which devs and coders and programmers and the like 
