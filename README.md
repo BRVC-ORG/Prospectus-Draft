@@ -19,7 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 5 May
 
-- The duration between September 11, 2001, 13:03:11 UTC and August 28, 2005, 16:00:00 UTC is:
+- From Google Gemini iOS app (w/ a freshly-minted (note on the text: Google Foundeds now can kind of be said to be Masters of Fine Arts in terms of understanding that users and the Market(s) or translate-that-however-you'd-like, before 2025's oddly-accepted-in-real-time-almost-by-multiple-Nations/NationStates the idea of AI being and honestly needing to be introduced into business and public-type-conversational.frames/frameworks and that it's basically the weird yet not-scary version of Internet Bubble's ambiguous updates and edits to what we now can call web1 and web2 (ARPANET still is fine with the unmoveable unshakeable fact(s) that they had a hand in its inception and but now tha'it's worldwide truly now and even back in late 90s time(s), —all Internet traffic goes through the US trial-based Workspace Business Standard subscriptionThe duration between September 11, 2001, 13:03:11 UTC and August 28, 2005, 16:00:00 UTC is:
 1,447 days, 2 hours, 56 minutes, and 49 seconds.
 3. Breakdown of the Duration
 To understand the span better, it can be broken down as follows:
