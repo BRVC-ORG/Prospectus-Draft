@@ -19,8 +19,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 5 May
 
- "Contact" (1997)
-    S.R. HADDEN: First rule of government-spending: Why buy one when you can buy two for twice the price?
+
+
+"Contact" (1997)
+> S.R. HADDEN: First rule of government-spending: Why buy one when you can buy two for twice the price?
 
 - Have begun manually doing what AutoML does with and for propretiary-data-types and am moving the appropriate notes, drafts, et al from Notes, Docs, OneDrive, Gmail (mainly from two (2) original, 2004-began accounts), plus other stuff
 
