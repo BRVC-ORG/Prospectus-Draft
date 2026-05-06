@@ -19,7 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 5 May
 
-
+Would double-JD qualification(s) need to be met for the chance(s) of a few Nations are organically interested in utilizing what one lone former-Confederate State now and since around the early 1800s or so uses still and willingly at that, for its entirety of thought; and excels, willingly[, as well]. period. FULL STOP. PROHIBTION 2 AMENDMENT NOT RETROACTIVELY SOUGHT. †JD  ..  sptth (viz a viz righttoleft protocol for future web4-, 5-type decentralizedAppTestNet
 
 "Contact" (1997)
 > S.R. HADDEN: First rule of government-spending: Why buy one when you can buy two for twice the price?
