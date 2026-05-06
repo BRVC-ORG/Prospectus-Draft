@@ -17,6 +17,24 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of May 2026
 
+5 May
+
+- The duration between September 11, 2001, 13:03:11 UTC and August 28, 2005, 16:00:00 UTC is:
+1,447 days, 2 hours, 56 minutes, and 49 seconds.
+3. Breakdown of the Duration
+To understand the span better, it can be broken down as follows:
+• Total Time:
+• Years: 3 years, 351 days, 2 hours, 56 minutes, and 49 seconds.
+• Total Days: 1,447 days.
+• Total Seconds: 125,033,009 seconds.
+• Calendar Progression:
+• Sept 11, 2001 to Sept 11, 2004: Exactly 3 years (1,096 days, including the leap year 2004).
+• Sept 11, 2004 to Aug 28, 2005: 351 days.
+• Time Difference: The 2 hours, 56 minutes, and 49 seconds account for the shift from 9:03:11 AM (impact) to 10:00 AM (order) adjusted for the two-hour difference between EDT and CST.
+Technical Note on Time Zones:
+If you intended 10:00 AM CDT (the local time in New Orleans on that date, which is UTC-5), the duration would be exactly one hour shorter: 1,447 days, 1 hour, 56 minutes, and 49 seconds.
+
+
 4 May
 
 - Essay "How To Obfuscate Before, While and After Creating A Cryptocurrency: A Narrative Essay on OPSEC, Cyber Hygiene, Identity Architecture and the Autonomous Nature of Decentralized Currency" outline and first draft begun in earnest
