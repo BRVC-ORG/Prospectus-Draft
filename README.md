@@ -6,7 +6,7 @@ Date began: 20 June 2024
 
 Completion date: March 2026 (for Investor(s)/Pitch Deck purpose(s))
 
-Continuation date: March 2026 - Current (for Bitcoin Community interfacing, support and transparency (or as much is possible within a incredibly-forward- and also -backward-thinking new market such as Digital Assets and its accompanying Classical Futures-type, perma-burgeoning-seeming applications and variations on web1 and web2 thinking and the like; and its very promising Decentralized Internet, dubbed web3, the not-oft-mentioned but arguably-necrssary web4 space(s) and the exciting, ever-promising future where web5 exists and only goes on to continue Decentralized Finance's pioneering ethos. Meant mainly for GitHub internal note(s)/BRVC-ORG purposes; and also to not have The Author finding his way back to the good life: simple, fun USENET groups where fun, esy-breasy discourse goes to boogie, fulltilt
+Continuation date: March 2026 - Current (for Bitcoin Community interfacing, support and transparency (or as much is possible within an incredibly-forward- and also -backward-thinking new market such as Digital Assets and its accompanying Classical Futures-type, perma-burgeoning-seeming applications and variations on web1 and web2 thinking and the like; and its very promising Decentralized Internet, dubbed web3, the not-oft-mentioned but arguably-necessary web4 space(s) and the exciting, ever-promising future where web5 exists and only goes on to continue Decentralized Finance's pioneering ethos. Meant mainly for GitHub internal note(s)/BRVC-ORG purposes; and also to not have The Author finding his way back to the good life: simple, fun USENET groups where fun, esy-breasy discourse goes to boogie, fulltilt
 
 For entries before August 2025, see the BRVC Prospectus PDF (created from the original Google Doc) attached above in the list of files at the top of this website; or,'if on iOS/Android visit, the Code section of this repository or visit the URL prospectus.brvc-org.com
 
@@ -19,16 +19,17 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 5 May
 
-Would double-JD qualification(s) need to be met for the chance(s) of a few Nations are organically interested in utilizing what one lone former-Confederate State now and since around the early 1800s or so uses still and willingly at that, for its entirety of thought; and excels, willingly[, as well]. period. FULL STOP. PROHIBTION 2 AMENDMENT NOT RETROACTIVELY SOUGHT. †JD  ..  sptth (viz a viz righttoleft protocol for future web4-, 5-type decentralizedAppTestNet
+Would double-JD qualification(s) need to be met for the chance(s) of a few Nations are organically interested in utilizing what one lone former-Confederate State now and since around the early 1800s or so uses still and willingly at that, for its entirety of thought; and excels, willingly[, as well]. period. FULL STOP. PROHIBITION 2 AMENDMENT NOT RETROACTIVELY SOUGHT. †JD  ..  sptth (viz a viz righttoleft protocol for future web4-, 5-type decentralizedAppTestNet
 
 "Contact" (1997)
 > S.R. HADDEN: First rule of government-spending: Why buy one when you can buy two for twice the price?
 
 Framerate used in opening sequence, in which daughter attempts to help her father who's (sans Unreliable Narrator(s) thinking and methodologies…  ,  IIRC having a heart attack
 
-    - Windows NT Framework : classical example of Framer's perspective being near textbook for an approach of sorts to Lite Hollywood Accounting (Post-U.S.C 1986 , of course, naturally-speaking)
+   - Windows NT Framework : classical example of Framer's perspective being near textbook for an approach of sorts to Lite Hollywood Accounting (Post-U.S.C 1986 , of course, naturally-speaking)
 
-   - One scene becomes an almost eternal matter at the outset.  Does NFT or web5-based copies of said work now have to suddenly apply due to Common Law Civil Law loopholes even in ethical test cases and its or their manner of thinking accompanying … easy (but not really) to see/envisage NT or Framework both or each having been still-unfamiliar to Consumer(s) [not that that is a bad thing or anything, of course]; just TableTop[ping] thingsto 
+   - One scene becomes an almost eternal matter at the outset.  Does NFT or web5-based copies of said work now have to suddenly apply due to Common Law Civil Law loopholes even in ethical test cases and its or their manner of thinking accompanying … easy (but not really) to see/envisage NT or Framework both or each having been still-unfamiliar to Consumer(s) [not that that is a bad thing or anything, of course]; just TableTop[ping] things to
+ 
 - Have begun manually doing what AutoML does with and for propretiary-data-types and am moving the appropriate notes, drafts, et al from Notes, Docs, OneDrive, Gmail (mainly from two (2) original, 2004-began accounts), plus other stuff
 
 - Miscellaneous notes for Essay, R&D, other stuff; included here b/c better for organizing; typed from longhand and from various and scattered app-specific sources, just for clerical purposes and for general transparency and the fact that it took, say, 3ish years to draft the Bitcoin white paper: Thought I have had most frequently in the past week, weekandahalf: people instinctively know this I guess but it's worth noting: that it takes talent to be able to do this kind of stuff, mostly the kind of talent and dedication-of-thought(s) that/which still are decidedly rare, but you can bave all of that and then some and but still if not for persistancd, the kind which devs and coders and programmers and the like 
