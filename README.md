@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of May 2026
 
+12 May
+
+- Work on Obfuscation essay continues
+
+- Meeting with VC
+
 5 May
 
 Would double-JD qualification(s) need to be met for the chance(s) of a few Nations are organically interested in utilizing what one lone former-Confederate State now and since around the early 1800s or so uses still and willingly at that, for its entirety of thought; and excels, willingly[, as well]. period. FULL STOP. PROHIBITION 2 AMENDMENT NOT RETROACTIVELY SOUGHT. †JD  ..  sptth (viz a viz righttoleft protocol for future web4-, 5-type decentralizedAppTestNet
@@ -24,7 +30,7 @@ Would double-JD qualification(s) need to be met for the chance(s) of a few Natio
 "Contact" (1997)
 > S.R. HADDEN: First rule of government-spending: Why buy one when you can buy two for twice the price?
 
-Framerate used in opening sequence, in which daughter attempts to help her father who's (sans Unreliable Narrator(s) thinking and methodologies…  ,  IIRC having a heart attack
+Framerate used in opening sequence, in which daughter attempts to help her father who's (sans Unreliable Narrator(s) thinking and methodologies…  , ) IIRC having a heart attack
 
    - Windows NT Framework : classical example of Framer's perspective being near textbook for an approach of sorts to Lite Hollywood Accounting (Post-U.S.C 1986 , of course, naturally-speaking)
 
@@ -42,7 +48,7 @@ Framerate used in opening sequence, in which daughter attempts to help her fathe
 
 - Stone's The Doors" version of Warhol, heavenly rotary phone included, approaches Beatles' vocalist's idea that 'The artist is the child who survived.' With no thought or care in the world as to what the art itself is to become of or be or what have you or translate-that-however-you'd-like.  Genesis, The Book of, has no author(s).  Exists right along in same time continuum as Shakespearean, Elizabethean, Victorian, Baroque and High Baroque, Enlightenment and Present-Day American English … that is what my ELF i(s) see; legalistically-thinking and in a more-in-line way of thinking with whatever will occur after TCP/IP and IPv-, real true naturally- and organic-in-source ideas demand that type and kind of thinking, once, as Apple Computer Inc. (just Apple Inc., now, since wayearly 2007, it seems) oneoftwoFoundersPeople + temporary NeXT C-suiter Jobs said once, its time (said idea, that is) has come; nothing can stop it, Jobs again here; but why…?  Talent is the thing that Bitcoin devs and believers inherently have and they are some of rhe rarest things on Earth
 
-- R&D note on timestamping and numerical value(s) in general in a purely non-Traditional-Sign(s)Value, academic-esque type of way (basically, First Principles but First Principles in a rigorous-intellectual-follow[ing]through methodological stance/standpoint with a healthy dosage of MLOps approach only with steadastness of the utmost in surefitr Military School of Thought; it'll make sense, youll get it.
+- R&D note on timestamping and numerical value(s) in general in a purely non-Traditional-Sign(s)Value, academic-esque type of way (basically, First Principles but First Principles in a rigorous-intellectual-follow[ing]-through methodological stance/standpoint with a healthy dosage of MLOps approach only with steadastness of the utmost in surefire Military School of Thought; it'll make sense, youll get it.
   
 - Copied from Gemini iOS app (w/ a freshly-minted (note on the text: Google Foundeds now can kind of be said to be Masters of Fine Arts in terms of understanding that users and the Market(s) or translate-that-however-you'd-like, before 2025's oddly-accepted-in-real-time-almost-by-multiple-Nations/NationStates the idea of AI being and honestly needing to be introduced into business and public-type-conversational.frames/frameworks and that it's basically the weird yet not-scary version of Internet Bubble's ambiguous updates and edits to what we now can call web1 and web2 (ARPANET still is fine with the unmoveable unshakeable fact(s) that they had a hand in its inception and but now tha'it's worldwide truly now and even back in late 90s time(s), —all Internet traffic goes through the US trial-based Workspace Business Standard subscriptionThe duration between September 11, 2001, 13:03:11 UTC and August 28, 2005, 16:00:00 UTC is:
 1,447 days, 2 hours, 56 minutes, and 49 seconds.
