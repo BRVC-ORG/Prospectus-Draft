@@ -1,6 +1,6 @@
 A research, manufacturing and development ventures company, focusing on digital assets and web5 architecture, with an organizational structure to be located in the American State of Washington (Ventures, R&D) and the two 'Blockchain States,’ Louisiana (Underwriting, Legal, Public-Private Partnerships) and Texas (Engineering, Public-Private Partnerships, HQ). Forward-looking statements not meant as securities of any kind.
 
-This Prospectus is a fully-exhaustive, running document that functions as both a tactical roadmap for Bitcoin Research & Ventures Company (BRVC) and a chronological, highly-transparent log of the Founder and CEO's activities. 
+This Prospectus is a fully-exhaustive, running document that functions as both a tactical roadmap for Bitcoin Research & Ventures Company and a chronological, highly-transparent log of the company's activities. 
 
 Date began: 20 June 2024
 
