@@ -33,7 +33,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - Would maybe help with web3, web5 topology/network[ing] stuff and whatnot and what have you
 
-        - 
+        - §
 
 12 May
 
