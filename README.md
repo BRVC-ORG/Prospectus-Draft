@@ -830,6 +830,7 @@ TIME GIVEN
 - Think of it like this: From a purely research-perspective, imagining some bad actor as having access to all the CCTV and satellite-feed(s) ever created in all of history is a good way to start unblocking one's mind from not thinking of another way to pre-empt said bad actor(s)
 
     - Intra-botnetweb(s), if you will
+
     - Technical-Linguistics-as-a-Path-On-the-Plain
 
 - Tengwar-as-intranet-Protocol (?)
@@ -839,15 +840,18 @@ TIME GIVEN
 - https://youtu.be/8qRyTDbEskM?si=aCVxbaYwDriKviu4
 
     - Nice visual antecedent to the Ringwraiths-knocking-down-door scene at The Inn at The Prancing Pony, incase someone were to get the phrase "fifty" stuck in his/her head, filmscenewise
+
         - In my mind whenever I would think about this scene I kept recalling Mike Wallace saying "editorialize," which is a correct way of saying it, although in reality it was actually "edit"; but once I kind of forced myself recently to start working with Tor again, I could see how maybe perhaps it was a clue or something....Why else would I be sitting here writing about it within a cryptography-focused R&D startup's Prospectus?
+    
     - Also a nice scene just inandof itself
+    
     - Tobacco still is able to be considered currency
 
-- Fact: Bitcoiners can fork AES/SHA as well
+- Fun factoid: Bitcoiners can (maybe, possibly) fork AES-/SHA- as well (?)
 
 - What I was reading in Late 2014 that reminds me of what's going on right now: https://www.goodreads.com/review/show/1116944619
 
-    - Essentially, then-President Lincoln would simply point to the applicable part of the Constitution, during times of confusion, while working with his opponents, not against
+    - Essentially, then-President Lincoln would simply point to the applicable part of the Constitution, during times of confusion, while working with his opponents, not against, to simply help clarify an issue
 
 - Like an upside-down <a href="https://en.wikipedia.org/wiki/Sierpiński_triangle">Sierpiński triangle</a>, maybe a new type of SHA-/PoW would use all of the Bitcoin versions (BTC, BCH, BSV, Knots, etc) as an option for further-enhanced hashing?  Just a thought.
 
