@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of May 2026
 
+20 May
+
+- https://1drv.ms/i/c/4839e395682cc8b1/IQCxyCxoleM5IIBIbAIAAAAAAWQoW5xA9XyKxHSoViu7T5A
+
 13 May
 
 - BitTorrent-as-a-Language
