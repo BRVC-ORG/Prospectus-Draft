@@ -25,9 +25,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
         - In a purely ethical, R&D way
 
-        - "The people who listen to the entire album will rule the world."
-
-            - §
+        - §
 
     - Potentially a lot of potential (?)
 
