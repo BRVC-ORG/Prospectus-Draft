@@ -23,7 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - 12 July 2014
 
-    - "For Gavin" burrito sketch/drawing
+    - 'For Gavin' burrito sketch/drawing
 
 13 May
 
