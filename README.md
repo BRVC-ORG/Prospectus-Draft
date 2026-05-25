@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of May 2026
 
+25 May
+
+- Voice-call with Thomas and Aleksis re future Bitcoin video production
+
+    - Focusing on factual story of Bitcoin's creation and Creator
+
 20 May
 
 - https://1drv.ms/i/c/4839e395682cc8b1/IQCxyCxoleM5IIBIbAIAAAAAAWQoW5xA9XyKxHSoViu7T5A
