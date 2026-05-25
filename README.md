@@ -23,6 +23,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - Focusing on factual story of Bitcoin's creation and Creator
 
+    - https://docs.google.com/document/d/10i_nUjvcKcY-E_W8vrXweRE7GCl6I2E-wPhsjLA3ico/edit?usp=drivesdk
+
 20 May
 
 - https://1drv.ms/i/c/4839e395682cc8b1/IQCxyCxoleM5IIBIbAIAAAAAAWQoW5xA9XyKxHSoViu7T5A
