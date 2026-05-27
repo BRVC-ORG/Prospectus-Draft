@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of May 2026
 
+26 May
+
+- Sixth Draft of Obfuscation essay
+
+    - https://essay.brvc-org.info
+
 25 May
 
 "Wall Street" (1987)
