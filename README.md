@@ -17,22 +17,6 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of May 2026
 
-27 May
-
-- DEP (highly secure) for locally-owned (meaning all in-home, in-shop, et cetera; immediate area) Nodes, Mining Rigs, clusters, et cetera (?)
-
-    - Bitcoin Knots
-
-26 May
-
-- Sixth Draft of Obfuscation essay
-
-    - https://essay.brvc-org.info
-
-    - https://drive.google.com/file/d/1mb-tzPzF0Xvgxs5OlSqU5yxlwAWiq0cL/view
-
-25 May
-
 "Wall Street" (1987)
 
 > "The most valuable commodity I know of is information."
@@ -42,6 +26,17 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - Focusing on factual story of Bitcoin's creation and Creator
 
     - https://docs.google.com/document/d/10i_nUjvcKcY-E_W8vrXweRE7GCl6I2E-wPhsjLA3ico/edit?usp=drivesdk
+
+
+- DEP (highly secure) for locally-owned (meaning all in-home, in-shop, et cetera; immediate area) Nodes, Mining Rigs, clusters, et cetera (?)
+
+    - Bitcoin Knots
+
+- Sixth Draft of Obfuscation essay
+
+    - https://essay.brvc-org.info
+
+    - https://drive.google.com/file/d/1mb-tzPzF0Xvgxs5OlSqU5yxlwAWiq0cL/view
 
 20 May
 
