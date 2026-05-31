@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of May 2026
 
+30 May
+
+- Crypto purchases via Western Union (?)
+
 27 May
 
 "Wall Street" (1987)
