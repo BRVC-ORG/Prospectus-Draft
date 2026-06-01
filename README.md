@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 1 June
 
+- VC with Aleksis
+
 - Just a thought: the sound when Gordon puts ice cubes in some glasses in this scene, the acoustics, is outstanding
 
     - https://youtu.be/jBEA65zdgKw?si=f16zXN_0GD-OhjDF
