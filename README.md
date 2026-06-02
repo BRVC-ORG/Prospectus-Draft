@@ -19,6 +19,42 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 1 June
 
+- To Do (BRVC, Square, et al)
+
+    - Canva BRVC site, find credentials
+    
+    - In-browser TradingUI r&d
+
+         - web3, web4.xx, web5 component(s), web3 browser usage (?)
+
+    - 2•9•2020 essay/white paper
+
+        - post 8 February 2020 personal narrative, technical essay on:
+
+            - How a new-ish, technically quoteunquote fringe tech can come about during times of uncertainty
+
+            - RodBeck Method creation, 'process'
+
+                - Real-time Operations Data for Blockchain Entity-based Covid-19 Knowledgebases/Kmapping
+
+                     - a proprietary cloud-based, multi-domain, multi-CNN evolutionary Al/ML solution for ER staff and frontline workers
+
+                     - 5 (more if needbe; highly scalable) different Convolutional Neural Networks with (again, as many as needed) AutoML-type addons for each; with each acting as a quoteunquote layer within the overall design, constantly inputing training/public data and feedforwarding this info right back into the beginning of the given layer's initial process: creating a combinatory-like approach which picks the best/winner out of each of the 5 layers' best [attimeof] result(s), only to continue the process constantly & with terabytes & verylarge numbers of VMs with varying O/S and spec(s) with Docker(s) and virtual/live variation(s) of operating environments and with (to example) Junyper notebooks and prorietary TensorFlow usage(s)/complement(s) — terabytes going into all of this and more & also power/processor hourly usage into the $100s-$10,000s being required for its operation and 24/7 uptime
+
+                          - IBM 'Stack' + Hyperledger (local, highly-proprietary)
+
+                          - AWS 'Stack'
+
+                          - Microsoft Azure Cloud
+
+                          - Google Cloud Platform
+
+                          - Custom, local, proprietary Linux (Live (CD, USB, eSATA, et cetera) and Unix setup(s)
+
+                              - (again, for example, and just a small portion/part of this kind of quoteunquote [semi-]airgapped set-up) Transparent Torrification via 5GLTE to laptop(s) running Whonix/Tails w/ Cat5/6 to Physical Gateway (PC running Linux Live CD) outbounding to Tor then VPN1 then Tor again to VPN2 to Tor to VPN3 then finally Internet (web1, web2)
+
+                                - or some variation of this
+
 - VC with Aleksis
 
 - Just a thought: the sound when Gordon puts ice cubes in some glasses in this scene, the acoustics, is outstanding
