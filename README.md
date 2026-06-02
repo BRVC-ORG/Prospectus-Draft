@@ -27,7 +27,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
          - web3, web4.xx, web5 component(s), web3 browser usage (?)
 
-    - 2•9•2020 essay/white paper
+    - "2•9•20" essay/white paper
 
         - post 8 February 2020 personal narrative, technical essay on:
 
@@ -54,6 +54,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
                               - (again, for example, and just a small portion/part of this kind of quoteunquote [semi-]airgapped set-up) Transparent Torrification via 5GLTE to laptop(s) running Whonix/Tails w/ Cat5/6 to Physical Gateway (PC running Linux Live CD) outbounding to Tor then VPN1 then Tor again to VPN2 to Tor to VPN3 then finally Internet (web1, web2)
 
                                 - or some variation of this
+
+    - Spotify playlist (created late February 2020)
+
+        - https://open.spotify.com/playlist/7iw1DlfNxCcegXIEU32yvr?si=AkxShCLyRYyrmpnqfh4SSA
+
+        - Helps w/ wordprocessing
 
 - VC with Aleksis
 
