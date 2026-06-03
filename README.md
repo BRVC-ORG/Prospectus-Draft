@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
+2 June
+
+- 
+
 1 June
 
 - To Do (BRVC, Square, et al)
@@ -43,11 +47,19 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
                           - IBM 'Stack' + Hyperledger (local, highly-proprietary)
 
+                          - Ethereum Blockchain, Smart Contract(s)
+
+                              - local development environments for private quoteunquote sandboxed local machines… (it's technical, but worked when needed)
+
+                              - Ethereum is still in the future, it's that good.  Vitalik is what Sartre wished he could have had the luck and outright foolishness of an academic pretending to be a parttime academic to encounter, should he still be alive [he is not; and Being and Nothingness is still a technical manual if anything;…should be left w/ the bloated papers in the aftermath in McCarthy's Road {'He … picked up the [rotaryphone] and dialed the number from that long ago.' 'What are you doing?'  2006, Knopf}
+
                           - AWS 'Stack'
 
                           - Microsoft Azure Cloud
 
                           - Google Cloud Platform
+
+                          - Oracle, Apache proprietary cloud 'layer'
 
                           - Custom, local, proprietary Linux (Live (CD, USB, eSATA, et cetera) and Unix setup(s)
 
