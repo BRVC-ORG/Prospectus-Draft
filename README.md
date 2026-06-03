@@ -19,7 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 June
 
-- 
+- correction: iteration not, re 2004 abstract(s) paragraph re Obfuscation essay (26 May 2026) - no way did i have foreknowledge of BTC's symbol somehow while painting in CS2; that's preposterous.  merrly a happenstance; must revise essay AGAUN (Clay, A. Dice. CD-ROM. 1989/90.  The Day the Laughter Died. Retrieved 4/Oct/2013, Spotify torrent)
 
 1 June
 
