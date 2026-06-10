@@ -1,4 +1,4 @@
-A research, manufacturing and development ventures company, focusing on digital assets and web5 architecture, with an organizational structure to be located in the American State of Washington (Ventures, R&D) and the two 'Blockchain States,’ Louisiana (Underwriting, Legal, Public-Private Partnerships) and Texas (Engineering, Public-Private Partnerships, HQ). Forward-looking statements not meant as securities of any kind.
+A research, manufacturing and development ventures company, focusing on digital assets and web5 architecture, with an organizational structure to be located in the American State of Washington (Ventures, R&D) and the 'Blockchain State,’ Texas. Forward-looking statements not meant as securities of any kind.
 
 This Prospectus is a fully-exhaustive, running document that functions as both a tactical roadmap for Bitcoin Research & Ventures Company and a chronological, highly-transparent log of the company's activities. 
 
@@ -18,6 +18,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of June 2026
 
 9 June
+
+- DOROTHY YouTube playlist
+
+    - https://youtube.com/playlist?list=PLJalKIdAeEcgWwJn4l_w8n4mN8O0ELpQI&si=E-uF5oSo1Mw3alGo
 
 - Need to find insurance company to possibly bond some or all wallets (?)
 
