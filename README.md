@@ -19,6 +19,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 9 June
 
+- 4/Jan/2017 19:51 CST
+
+    - https://imgur.com/pwCIpHS
+
 - DOROTHY YouTube playlist
 
     - https://youtube.com/playlist?list=PLJalKIdAeEcgWwJn4l_w8n4mN8O0ELpQI&si=E-uF5oSo1Mw3alGo
