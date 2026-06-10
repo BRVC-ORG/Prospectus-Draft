@@ -17,7 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
-9 June
+9 Jun
+
+- 18/Mar/2025
+
+     - https://imgur.com/gallery/HMC5YjT/comment/2449351635
 
 - 4/Jan/2017 19:51 CST
 
