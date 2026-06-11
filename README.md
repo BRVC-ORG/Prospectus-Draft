@@ -17,7 +17,15 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
-9 Jun
+10 June
+
+Walk rhe Line (2005)
+
+> Honey, youre already down there.
+
+9 June
+
+- and one more for the Airborne Ranger in the sky
 
 - 18/Mar/2025
 
