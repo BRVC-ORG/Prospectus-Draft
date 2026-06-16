@@ -21,7 +21,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 Walk the Line (2005)
 
-> Honey, youre already down there . . . 
+> You already are down there, honey . . . 
 
 9 June
 
