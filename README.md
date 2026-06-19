@@ -17,6 +17,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
+18 June
+
+- Canva gfx created for signing (Aleksis)
+
+- LinkTree created (Aleksis)
+
+- LinkedIn created
+
+    - https://linkedin.com/in/brockthib
+
 10 June
 
 Walk the Line (2005)
