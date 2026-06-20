@@ -19,6 +19,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 19 June
 
+- Circle Developers Console for DOROTHY (Marketing, Testing, etc)
+
+    - https://console.circle.com
+
 - LinkedIn verification
 
 - LinkTree verification
