@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
+19 June
+
+- LinkedIn verification
+
+- LinkTree verification
+
 18 June
 
 - Canva gfx created for signing (Aleksis)
