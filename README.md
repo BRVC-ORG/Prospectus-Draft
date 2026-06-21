@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 20 June
 
+- Work on 2•9•20 essay continues
+
 - Bitcoin, Credit Card and Afterpay Marketing Kits ordered
 
     - Order #US-888856530
