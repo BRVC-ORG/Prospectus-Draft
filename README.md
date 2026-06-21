@@ -17,6 +17,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
+20 June
+
+- Bitcoin, Credit Card and Afterpay Marketing Kits ordered
+
+    - Order #US-888856530
+
+        - Status as of 18:10 PST
+
+            - Sent to warehouse
+
 19 June
 
 - Circle Developers Console for DOROTHY (Marketing, Testing, etc)
