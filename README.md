@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 22 June
 
+- RIP Alan Greenspan
 - Great Place to Work Certification (?)
 - Other workplace certification (?)
 
