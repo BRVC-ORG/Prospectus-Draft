@@ -19,6 +19,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 22 June
 
+- Email from gifting a week of Flickr Pro (7 April 2026)
+
+    - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/404c8254dc8a78ba7901c2e717a36062258748fd/Thank%20you%20for%20giving%20the%20gift%20of%20Flickr%20Pro!.pdf
+    - https://www.flickr.com/photos/violetblue/
+  
 - Square Order #US-888856530
 
   - Status as of 15:27 PST
