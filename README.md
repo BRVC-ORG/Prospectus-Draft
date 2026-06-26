@@ -17,6 +17,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
+25 June
+
+- Spoke with Aleksis
+
+    - Press release(s) pre-, post-signing
+    - Business license(s)
+    - Social media verification(s)
+
 24 June
 
 - node.js
