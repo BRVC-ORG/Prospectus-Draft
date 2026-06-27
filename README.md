@@ -17,6 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
+26 June 2026
+
+- Future of Payments: Promoting Innovation and Fair Markets (https://www.youtube.com/live/98cIEA8JbSg?si=OH1UNXWj1OoBIfID)
+    - Banks adopting blockchain, DeFi technology
+    - Stripe is nice, highly recommend
+
+
 25 June
 
 - Spoke with Aleksis
