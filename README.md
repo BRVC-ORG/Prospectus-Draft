@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 June
 
+- Square order #US-888856530 delivered
 - Meeting with Aleksis
 
     - Marketing Kit(s)
