@@ -17,7 +17,27 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of June 2026
 
-26 June 2026
+29 June
+
+- Meeting with Aleksis
+
+    - Marketing Kit(s)
+    - Transfer 2•9•20 repository to domain/URL that is highly-readable and minimalist (?)
+    - Website devoted to info for post-signing (?)
+
+        - Press Handout(s)
+
+            - Basically PDF one-sheets with summarized info
+         
+    - NFTs (?)
+
+        - Related to the signing itself (?)
+
+    - Unstoppable Domains
+
+        - AI credits to build website
+
+26 June
 
 - Future of Payments: Promoting Innovation and Fair Markets (https://www.youtube.com/live/98cIEA8JbSg?si=OH1UNXWj1OoBIfID)
     - Banks adopting blockchain, DeFi technology
