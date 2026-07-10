@@ -19,6 +19,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 9 July
 
+- SpeakerDeck new upload
+
+    - https://speakerdeck.com/bitcoincreator/ul-lafayette-fall-2014-semester-mr-gary-presentation1
+
+        - 'Home Shopping Network:
+The Pinnacle of Modern
+American Television' - Fall Semester 2014, University of Louisiana at Lafayette
+
 - This takes care of Modernism re Operation Olympic Games: lowercase letters in place of 'x,' re hardware stylistics/nomenclature —> r&d only
 
 - ./§ as local admin for DOROTHY . . . on some level (?)
