@@ -19,6 +19,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 9 July
 
+- During my time at the University of Louisiana at Lafayette as an undergraduate in English (No concentration), I once filled out a Blue Book for an exam which involved the answer to a question written in pencil which was the response to a question involving Dr. Martin Luther King Jr.  In my answer I wrote King's name as 'Reverend Dr. Martin Luther King Jr.' and upon receiving the Book back either the Professor or the TA had written 'really?' beside it on the left.  I have never forgotten this.  This was on the 5th floor of Griffin, by the way.  Campus: ULL.  State: Louisiana.  Year: 2012.
+
+    - 33 on this map: https://louisiana.edu/sites/default/files/2025-09/2025%20Campus%20Map_Aug.pdf
+
 - R&D notes: In late 2011 I was an English undergraduate, dating an Accounting undergraduate, and had recently entered a yahoo.com poetry contest which stipulated using only the word purple as its theme: why does this matter?  I had not created anything using Yahoo! since 1998 (dark_blastoise_009@hotmail.com) and surely enough the reallife Statue of David still remains as a useful thinkpiece re Operation Olympic Games.  Chess was never important to begin with.  Or would no-one broach the idea of some bad actor forcing us to consider each and every iPhone as sea vessels?
 
 - As a Post-9/11 veteran: RodBeck inquiry: Why would Antonio reclassify/add a new MOS (Cryptologic Linguist) like that?  This is an important question, if only in an interoperable sense.  Why?  To leave the Rangers, willingly, and to take up purely support-/attaché-like position within SF, in 2018 of all years, is something which has been on my mind for quite some time: since I first heard about it to be honest.  Say what you will, but small government standpoint(s) is starting to look pretty good from where I'm sitting.  ...How does one just leave 'Recon' like that?
