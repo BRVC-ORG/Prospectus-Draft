@@ -15,6 +15,18 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc/PDF:
 
+# Month of July 2026
+
+9 July
+
+- This takes care of Modernism re Operation Olympic Games: lowercase letters in place of 'x,' re hardware stylistics/nomenclature —> r&d only
+
+- ./§ as local admin for DOROTHY . . . on some level (?)
+
+- 'Signed Transaction. Draft.' playlist
+
+    - https://youtube.com/playlist?list=PLao_DkGx53bc&si=wv8bDZcQgLZW6bnH
+
 # Month of June 2026
 
 29 June
