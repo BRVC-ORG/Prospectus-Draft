@@ -19,6 +19,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 9 July
 
+- As a Post-9/11 veteran: RodBeck inquiry: Why would Antonio reclassify/add a new MOS (Cryptologic Linguist) like that?  This is an important question, if only in an interoperable sense.  Why?  To leave the Rangers, willingly, and to take up purely support-/attaché-like position within SF, in 2018 of all years, is something which has been on my mind for quite some time: since I first heard about it to be honest.  Say what you will, but small government standpoint(s) is starting to look pretty good from where I'm sitting.  ...How does one just leave 'Recon' like that?
+
+    - I have even started using a random 'extra if needed' Safari profile dubbed 'Leave me here' in recent days, and had no idea why until a recent bout of upperrespiratory infection found me again, and I had found myself naming and renaming one particular Tab Group as './§' and './§TheSun' before taking a few days off of work to rest 20+ hours of the day(s).  Was this myself attempting to think in a purely transactional manner?  Was it something along the lines of SMS spoofing, in a purely 2005 sense?  Was this myself trying to remind myself of my Appalachian Trail NorthBound Thru-hike (2015-2016) and Section Hike (2017-2018)?  Is this only myself attempting to resist the possibly incredibly easy answer to this whole conundrum of the happenstance-like situation of Mr. Robot the TV show airing at exactly the same time as my starting the AT in late December 2015?  How could it only be a mere ten (10) years between 2008 and 2018?  How could Antonio be gone?  This world may truly be lesser because of it...  My respect for the NSA grows more as days go by.
+
 - SpeakerDeck new upload
 
     - https://speakerdeck.com/bitcoincreator/ul-lafayette-fall-2014-semester-mr-gary-presentation1
