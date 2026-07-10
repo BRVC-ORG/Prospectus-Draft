@@ -19,6 +19,20 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 9 July
 
+- WordPress exploit(s) abound
+
+> CHIGURH
+You know what date is on this
+coin?
+
+> PROPRIETOR
+No.
+
+> CHIGURH
+Nineteen fifty-eight. It's been
+traveling twenty-two years to get
+here. And now it's here.
+
 - During my time at the University of Louisiana at Lafayette as an undergraduate in English (No concentration), I once filled out a Blue Book for an exam which involved the answer to a question written in pencil which was the response to a question involving Dr. Martin Luther King Jr.  In my answer I wrote King's name as 'Reverend Dr. Martin Luther King Jr.' and upon receiving the Book back either the Professor or the TA had written 'really?' beside it on the left.  I have never forgotten this.  This was on the 5th floor of Griffin, by the way.  Campus: ULL.  State: Louisiana.  Year: 2012.
 
     - 33 on this map: https://louisiana.edu/sites/default/files/2025-09/2025%20Campus%20Map_Aug.pdf
