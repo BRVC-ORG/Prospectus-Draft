@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 10 July
 
+- is it wrong that I once thought of becoming a master parachutist during the Heard v Depp trial? or is that too now part of the supposed quoteunquote missing gold underneath the twin towers urban myth? timestamp server 00
+
 - leitmotif: i do not lie about bitcoin; i do not lie about the blockchain
 
 - Dataocean oracle recursion ops for Treasurybacked highscaling Ytokens
