@@ -17,6 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of July 2026
 
+11/Jul/2026
+
+YouTube video id: sa4C6stZsYE 
+'Bitcoin Research.'
+22/mar/2006
+Thank you
+
 10 July
 
 - is it wrong that I once thought of becoming a master parachutist during the Heard v Depp trial? or is that too now part of the supposed quoteunquote missing gold underneath the twin towers urban myth? timestamp server 00
