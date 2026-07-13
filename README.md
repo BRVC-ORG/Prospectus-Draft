@@ -19,10 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 11/Jul/2026
 
-YouTube video id: sa4C6stZsYE 
-'Bitcoin Research.'
-22/mar/2006
-Thank you
+- YouTube video id: sa4C6stZsYE , 'Bitcoin Research.' 22/mar/2006
+    - Thank you
 
 10 July
 
