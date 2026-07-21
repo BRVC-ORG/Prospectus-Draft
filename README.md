@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of July 2026
 
+20 July
+
+- Work on contacting angel investors continues
+
 11/Jul/2026
 
 - YouTube video id: sa4C6stZsYE , 'Bitcoin Research.' 22/mar/2006
