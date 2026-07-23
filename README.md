@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of July 2026
 
+23 July
+
+- Work continues on verified Spotify Author page for original white paper (audio version)
+
 22 July
 
 - Meeting with Aleksis to discuss this week's plan(s)
