@@ -19,6 +19,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 23 July
 
+- Work on signed transaction continues for this week
+
+    - https://youtube.com/playlist?list=PLao_DkGx53bc&si=vNhLyUu0839leVqI
+
 - Work continues on verified Spotify Author page for original white paper (audio version)
 
 22 July
